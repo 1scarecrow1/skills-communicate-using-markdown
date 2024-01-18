@@ -12,7 +12,10 @@
 
 
 
-
+```python
+def make_new_commit(file, commit_message):
+     # do something
+```
 
 
 
