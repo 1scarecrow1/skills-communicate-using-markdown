@@ -18,7 +18,11 @@ def make_new_commit(file, commit_message):
 ```
 
 
-
+- [x] Turn on GitHub Pages
+- [x] Headers
+- [x] Image
+- [x] Sample code block
+- [x] Task list
 
 
 
