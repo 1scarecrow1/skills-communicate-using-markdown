@@ -1,6 +1,1 @@
-- [x] Turn on GitHub Pages
-- [x] Headers
-- [x] Image
-- [x] Sample code block
-- [x] Task list
-- [] new stuff
+
