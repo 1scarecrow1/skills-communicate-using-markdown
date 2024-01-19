@@ -20,7 +20,8 @@ def make_new_commit(file, commit_message):
 
 
 
-
+- [] Do something
+- [] Do something else
 
 
 
